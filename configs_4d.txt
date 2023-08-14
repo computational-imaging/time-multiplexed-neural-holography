@@ -1,0 +1,7 @@
+data_path=data/4d_olas
+out_path=results
+target=4d
+loss_func=l2 
+uniform_nbits=4
+eval_plane_idx=3
+eyepiece=0.035

@@ -1,0 +1,6 @@
+data_path=data/2d
+out_path=results
+target=2d 
+loss_func=l2 
+uniform_nbits=4
+eval_plane_idx=3

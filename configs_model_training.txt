@@ -1,0 +1,3 @@
+lr=3e-4
+batch_size=4
+prop_model=nh4d

@@ -1,0 +1,6 @@
+data_path=data/3d_bamboo
+out_path=results
+target=3d
+loss_func=l2 
+uniform_nbits=4
+eyepiece=0.035
